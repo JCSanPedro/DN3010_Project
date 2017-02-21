@@ -1,0 +1,22 @@
+{
+  "name": "DN3010_Proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue_server.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "typescript": "^2.1.6"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
